@@ -1,3 +1,7 @@
+#adafruit-circuitpython-DHT
+#thingspeak
+#rpi_lcd
+
 import time
 import board
 import adafruit_dht
