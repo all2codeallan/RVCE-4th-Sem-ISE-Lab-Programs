@@ -15,13 +15,84 @@
 
 ### DAA (Design and Analysis of Algorithms)
 
-| # | Program Title | Program Code |
-|---| ----- | -------- |
-|1|Merge Sort|[Program-1](./DAA/Program-1)|
-|2|Topological Sort|[Program-2](./DAA/Program-2)|
-|3|Presorting|[Program-3](./DAA/Program-3)|
-|4|Horspool String Matching|[Program-4](./DAA/Program-4)|
-|5|0/1 Knapsack using DP|[Program-5](./DAA/Program-5)|
-|6|Dijkstra's Algorithm|[Program-6](./DAA/Program-6)|
-|7|Sum of Subset|[Program-7](./DAA/Program-7)|
-|8|N Queens|[Program-8](./DAA/Program-8)|
+<table>
+  <tr>
+    <th>#</th>
+    <th>Program Title</th>
+    <th>Program Code</th>
+  </tr>
+  <tr>
+    <th colspan="3" style="text-align: center;"><strong>PART - A</strong></th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Merge Sort</td>
+    <td><a href="./DAA/PART-A/Program-1">Program-1</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Topological Sort</td>
+    <td><a href="./DAA/PART-A/Program-2">Program-2</a></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Presorting</td>
+    <td><a href="./DAA/PART-A/Program-3">Program-3</a></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Horspool String Matching</td>
+    <td><a href="./DAA/PART-A/Program-4">Program-4</a></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>0/1 Knapsack using DP</td>
+    <td><a href="./DAA/PART-A/Program-5">Program-5</a></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Dijkstra's Algorithm</td>
+    <td><a href="./DAA/PART-A/Program-6">Program-6</a></td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Sum of Subset</td>
+    <td><a href="./DAA/PART-A/Program-7">Program-7</a></td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>N Queens</td>
+    <td><a href="./DAA/PART-A/Program-8">Program-8</a></td>
+  </tr>
+  <tr>
+    <th colspan="3" style="text-align: center;"><strong>PART - B</strong></th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Quick Sort</td>
+    <td><a href="./DAA/PART-B/Quicksort">Program-1</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Heap Sort</td>
+    <td><a href="./DAA/PART-B/Heapsort">Program-2</a></td>
+  </tr>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Graph Connectivity using BFS</td>
+    <td><a href="./DAA/PART-B/BFS-Connectivity">Program-3</a></td>
+  </tr>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Floyd's Algorithm</td>
+    <td><a href="./DAA/PART-B/Floyd's_algorithm">Program-4</a></td>
+  </tr>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Minimum Cost Spanning Tree using Prim's algorithm</td>
+    <td><a href="./DAA/PART-B/MST_Prim's">Program-5</a></td>
+  </tr>
+</table>
