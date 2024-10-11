@@ -1,6 +1,6 @@
 # OUTPUT
 ## Input Graph
-![Example](../images/image1.png)
+![Example](../../images/image1.png)
 - Compilation command
 ```bash
 gcc dijkstra.c

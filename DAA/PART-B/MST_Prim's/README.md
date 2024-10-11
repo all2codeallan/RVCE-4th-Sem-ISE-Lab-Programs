@@ -1,5 +1,7 @@
 # OUTPUT
 
+## Input Graph
+![Example](../../images/image2.png)
 - Compilation command
 ```bash
 gcc prims.c
