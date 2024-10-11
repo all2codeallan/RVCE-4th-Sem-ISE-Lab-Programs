@@ -7,7 +7,7 @@ void driver(int[][2]);
 void dfs(int, int[], int[][2]);
 
 int main() {
-    int i,j,c,ch;
+    int i,j;
     printf("Topological sorting for DIRECTED ACYCLIC GRAPH using DFS method\n");
     printf("Enter the number of vertices: ");
     scanf("%d",&V);
@@ -46,7 +46,7 @@ int main() {
 }
 
 void driver(int a[E][2]) {    
-    int i,j,k,st[V],flag=-1,visit[50];
+    int i,j,k,flag=-1,visit[50];
     for(i=0;i<V;i++)
         visit[i]=0;
     for(k=0;k<V;k++) {

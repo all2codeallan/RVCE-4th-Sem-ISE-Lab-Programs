@@ -18,7 +18,7 @@ t - 2\
 e - 1\
 s - 3\
 Searching\
-Pattern found at position 42 in the text\
+Pattern found at position 42 in the text
 
 ```markdown
                                          |      |
