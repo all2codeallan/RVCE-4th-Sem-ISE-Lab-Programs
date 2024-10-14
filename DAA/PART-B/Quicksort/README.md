@@ -9,17 +9,19 @@ gcc -o quick_sort quick_sort.c -lm
 ./quick_sort.c
 ```
 - **Output :**\
-Enter the size of array: 5\
-Enter the 5 array elements -\
-23 41 12 12 7\
+Enter choice: 1.Correctness 2.Complexity - 1\
+Enter the size of array: 4\
+Enter 4 array elements -\
+7 1 9 2\
 Sorted array is:\
-7 12 12 23 41 \
-The basic operation executes 8 times.\
+1 2 7 9 \
 \
-SIZE&emsp; ASC &emsp; DESC &emsp; RANDOM\
-&nbsp;16&emsp; &ensp;120 &emsp;&ensp; 120 &emsp;&emsp;&emsp; 62\
-&nbsp;32&emsp; &ensp;496 &emsp;&ensp; 496 &emsp;&emsp;&ensp;&nbsp; 118\
-&nbsp;64&emsp;&nbsp; 2016&emsp;&nbsp; 2016 &emsp;&emsp;&ensp; 396\
-128&emsp; 8128&emsp;&nbsp; 8128 &emsp;&emsp;&nbsp; 1003\
-256&ensp;&nbsp; 32640&ensp;&nbsp; 32640 &emsp;&emsp; 2253\
-512&ensp; 130816&ensp; 130816 &emsp;&ensp; 4630
+Enter choice: 1.Correctness 2.Complexity - 2\
+Enter size of array for complexity calculation of array of its next 5 multiples: 100\
+Size &ensp; Ascending &ensp;	n * n &ensp;	Descending	&ensp; n * n	&ensp;Random&ensp;	cnlog(n)\
+100	&emsp;&emsp;1344	&emsp;&ensp;&emsp;	10000	&emsp;&emsp;&ensp;	1344	&emsp;&emsp;&ensp;	10000&ensp;&emsp;&emsp;		1344	&ensp;&ensp;&emsp;1329\
+200	&emsp;&emsp;3088	&emsp;&ensp;&emsp;	40000	&emsp;&ensp;&emsp;	3088	&emsp;&ensp;&emsp;	40000	&emsp;&ensp;&emsp;	3088	&ensp;&ensp;&ensp;3058\
+400	&emsp;&emsp;6976	&emsp;&ensp;&emsp;	160000	&emsp;&ensp;&emsp;	6976	&emsp;&ensp;&emsp;	160000	&emsp;&ensp;&emsp;	6976	&ensp;&ensp;&ensp;6915\
+800&ensp;&emsp;	15552	&ensp;&ensp;&emsp;	640000	&ensp;&ensp;&emsp;	15552	&emsp;&ensp;&emsp;	640000	&ensp;&emsp;	15552&ensp;&ensp;&ensp;	15430\
+1600	&ensp;&ensp;34304	&ensp;&ensp;&emsp;	2560000	&emsp;&ensp;&ensp;	34304	&ensp;&ensp;&emsp;	2560000	&emsp;&ensp;&ensp;	34304	&ensp;&ensp;&ensp;34060\
+(Considering c as 3 here)
